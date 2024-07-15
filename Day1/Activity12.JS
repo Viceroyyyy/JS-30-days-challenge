@@ -1,10 +1,16 @@
-var Shweepy = 29
+//Declaring variable using var keyword
+
+var Shweepy = 29 
 console.log(Shweepy)
 
-let shhweepy = "Habibi"
+//Declaring variable using let keyword
+
+let shhweepy = "Habibi" 
 console.log(shhweepy)
 
-const shweepyCutie = true
+//Declaring variable using const keyword
+
+const shweepyCutie = true 
 console.log(shweepyCutie)
 
 

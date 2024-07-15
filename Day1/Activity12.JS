@@ -8,7 +8,7 @@ console.log(Shweepy)
 let shhweepy = "Habibi" 
 console.log(shhweepy)
 
-//Declaring variable using const keyword
+//Declaring variable using const keyword 
 
 const shweepyCutie = true 
 console.log(shweepyCutie)

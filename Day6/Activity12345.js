@@ -73,3 +73,21 @@ function getSum(sum,num) {
 }
 
 console.log(numreduce);
+
+//Activity-4 Array Iteration
+//Task 10-Using normal for loop
+for(let i=0;i<arrmap.length;i++)
+{
+    console.table(arrmap[i]);
+}
+//Task-11 Uing normal for Each Loop
+
+arrmap.forEach((x)=>console.log(x));
+
+//Activity 5 Multidimensional arrays
+//Task12- Create A 2D array and log the entire array
+let arr2D=[[1,2,3],[4,5,6],[7,8,9]];
+console.log(arr2D);
+//Task-13 Multidimensional arrays specific element access
+console.log(arr2D[2][2]);
+
